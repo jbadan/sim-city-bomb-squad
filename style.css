@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+}
+
+body{
+  background-image: url(img/simcity.jpg);
+  margin: auto;
+  text-align: center;
+}
+
+#container{
+  background: black;
+  width: 175px;
+  padding: 15px;
+  margin: 100px auto;
+}
+
+#timer{
+  height: 30px;
+  width: 150px;
+  background: white;
+  margin: 10px auto;
+
+}
+
+.wires{
+
+}
+
+#reset{
+  width: 150px;
+}
